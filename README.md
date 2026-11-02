@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9B72CF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yogita+Sawant+%F0%9F%91%8B;Web+Developer+%7C+React.js+Enthusiast;Building+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <b>Turning ideas into interactive, responsive, and meaningful web experiences.</b>
-</p>
-
 ---
 
 ## 💜 About This Project
